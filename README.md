@@ -1,4 +1,4 @@
-# TurboSporkV1
+# TurboSporkOld
 
 A system for creating neural networks in C.
 This is an archive of the first version of the library.
